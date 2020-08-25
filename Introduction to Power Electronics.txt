@@ -1,0 +1,47 @@
+Coursera Specialization Introduction to Power Electronics
+
+Answers:
+
+ASSIGNMENT 1 ANSWER
+
+1) 40.126
+2) 3.5353
+3) 80.5047938
+4) 84.8472
+5) 0.203
+6) 0.9488208662159741
+7) 59.61
+
+ASSIGNMENT 2 ANSWER
+
+1) (Vg*D)+(V*(1-D))
+2) -(V/R)*D -(IL+V/R)*(1-D)
+3) -Vg*(D/(1-D))
+4) (Vg/R)*(D/(1-D)^2)
+5) Vg*D*Ts/(2*L)
+6) D^2*Vg*Ts/(2*R*C*(1-D))
+7) 0.29411764706
+8) 2.83333
+9) 20.75805
+10) 58.82
+11) 3.258
+12) 17
+13) 11.9986
+14) Vg*D
+15) (D*Vg)/R
+16) Vg
+17) (D^2*Vg)/R
+18) (Vg*(D^2))/R*(1-D)*Ts*(1/C1)*(1/2)
+
+ASSIGNMENT 3 ANSWER
+
+1) D
+2) Ron*D+RL
+3) (1-D)*Vd
+6) (R*(1-D))/((RL+D*Ron)+R*(1-D)^2)*(D-Vd/Vg*(1-D))*((1-D)/D)
+8) 0.796812749
+9) RL+D*RT
+10) VT*D+(1-D)*Vd
+12) 0.528352625
+13) 0.982598697
+14) 678.0884318
